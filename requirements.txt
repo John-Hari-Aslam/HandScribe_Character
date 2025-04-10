@@ -1,0 +1,6 @@
+streamlit
+pillow
+easyocr
+streamlit_drawable_canvas
+pyttsx3
+requests
